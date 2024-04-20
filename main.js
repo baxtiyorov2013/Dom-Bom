@@ -10,6 +10,7 @@ bgColor.style.justifyContent ="center";
 bgColor.style.alignItems = 'center';
 randdom.style.fontSize ="70px";
 randdom.style.fontFamily ="nosifer";
+randdom.style.marginTop ="230px";
 
 randdom.innerHTML = random;
  
